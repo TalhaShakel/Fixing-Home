@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "635668843381",
+    "project_id": "fixx-7f4e0",
+    "storage_bucket": "fixx-7f4e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635668843381:android:23258879b9fe8a77ee213c",
+        "android_client_info": {
+          "package_name": "com.example.fixhome2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635668843381-l2kng467qi8coon442t649r0f735b1te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fixhome2",
+            "certificate_hash": "a33913bd6f352182efc8e5cdf15df27f5ff36b79"
+          }
+        },
+        {
+          "client_id": "635668843381-c0jk3ig13pvsqe5dlsl9n8oufihg7927.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClCZl2qJ5e7ZGodV7rG3IlR8CXmUdjCWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635668843381-c0jk3ig13pvsqe5dlsl9n8oufihg7927.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
